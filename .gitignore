@@ -1,0 +1,9 @@
+# Node modules
+**/node_modules/
+
+# Logs
+logs
+.npm/_logs
+
+# Environment
+.env
